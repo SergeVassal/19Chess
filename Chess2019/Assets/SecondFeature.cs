@@ -7,5 +7,17 @@ public class SecondFeature : MonoBehaviour
     void Start()
     {
         Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
+
+        Debug.Log("Blabla");
     }
 }
