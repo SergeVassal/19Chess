@@ -4,4 +4,8 @@ using UnityEngine;
 
 public class SecondFeature : MonoBehaviour 
 {	
+    void Start()
+    {
+        Debug.Log("Blabla");
+    }
 }
