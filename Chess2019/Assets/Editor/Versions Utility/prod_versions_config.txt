@@ -1,0 +1,46 @@
+{
+  "Versions": [
+    {
+      "VersionName": 0,
+      "SubversionName": 1,
+      "PlatformName": 0,
+      "CommonSettings": {
+        "CompanyName": "Heyworks",
+        "ProductName": "PocketTroops",
+        "AppVersion": "dev",
+        "Identification": {
+          "BundleIdentifier": "com.Heyworks.PocketTroopersDev",
+          "BundleVersion": "1.0",
+          "ShortBundleVersion": "1.0"
+        },
+        "DefaultIcon": "",
+        "StoreLink": "https://itunes.apple.com/app/id948279126"
+      },
+      "AndroidSettings": null,
+      "IOSSettings": {
+        "AppStoreId": "https://itunes.apple.com/app/id948279126"
+      }
+    },
+    {
+      "VersionName": 0,
+      "SubversionName": 1,
+      "PlatformName": 1,
+      "CommonSettings": {
+        "CompanyName": "Heyworks",
+        "ProductName": "PocketTroops",
+        "AppVersion": "dev",
+        "Identification": {
+          "BundleIdentifier": "com.Heyworks.PocketTroopersDev",
+          "BundleVersion": "1.0",
+          "ShortBundleVersion": "1.0"
+        },
+        "DefaultIcon": "",
+        "StoreLink": "https://itunes.apple.com/app/id948279126"
+      },
+      "AndroidSettings": {
+        "GooglePlayAppId":"ssd"
+      },
+      "IOSSettings": null
+    }
+    ]
+}
